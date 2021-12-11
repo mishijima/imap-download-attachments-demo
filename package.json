@@ -1,0 +1,21 @@
+{
+  "name": "imap-download-attachments-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mailparser": "^3.4.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "node-imap": "^0.9.6",
+    "pino": "^7.5.1",
+    "pino-pretty": "^7.2.0"
+  }
+}
